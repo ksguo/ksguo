@@ -4,11 +4,11 @@
   + ☕ Learning React,TS,Java,Python…
   + 📡 Want to be an interesting person.
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&weight=500&duration=3500&pause=2000&color=2795FF&width=435&height=30&lines=A+developer+who+code+for+fun+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://magren.cc)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu+Mono&pause=1000&center=true&width=435&lines=An+independent+developer+coding+with+love.)](https://kesheng.me)
 
 ![My Skills and tools](https://skillicons.dev/icons?i=vscode,java,python,js,ts,html,css,nextjs,react,tailwind,vercel,postgresql,fastapi,postman,git,github,stackoverflow,md)
 
-[![wakatime](https://wakatime.com/badge/user/4613633f-2e83-4c6c-ba7e-1d1be6f7757b.svg)](https://wakatime.com/@4613633f-2e83-4c6c-ba7e-1d1be6f7757b)
+[![wakatime](https://wakatime.com/badge/user/d24fde81-4227-43e1-a5a9-455a0a47d9de.svg)](https://wakatime.com/@d24fde81-4227-43e1-a5a9-455a0a47d9de)
 
   ## Find me 👇
   + My blog : [kesheng.me](https://kesheng.me)
