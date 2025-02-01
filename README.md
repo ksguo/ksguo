@@ -6,7 +6,7 @@ Hi, I am currently a master's student in Information Systems at the University o
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu+Mono&pause=1000&center=true&width=435&lines=An+independent+developer+coding+with+love.)](https://kesheng.me)
 
 
-**Web Developer**
+**Web Developer**<br>
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
 
 **Backend Developer**<br>
