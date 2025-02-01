@@ -25,7 +25,7 @@ Hi, I am currently a master's student in Information Systems at the University o
 
 
 ## Find me 👇
-  + [kesheng.me](https://kesheng.me)
+  + [![Portfolio](https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=campaignmonitor&logoColor=white)](https://kesheng.me)
   + [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kesheng-guo/)
   + [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ksguo510)
   + [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kesheng.guo510@gmail.com)
