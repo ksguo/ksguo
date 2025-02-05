@@ -3,7 +3,7 @@
 
 Hi, I am currently a master's student in Information Systems at the University of Göttingen. I achieved my bachelor's degree from the University of Cologne. I am a passionate Full Stack Developer with a strong focus on Frontend Development. Proficient in React, Next.js, and TypeScript, I specialize in building dynamic and user-friendly web applications.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu+Mono&pause=1000&center=true&width=435&lines=An+independent+developer+coding+with+love.)](https://kesheng.me)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=19&pause=1000&color=0F3CF7&width=435&lines=independent+developer+coding+with+love)](https://git.io/typing-svg)
 
 
 **Web Developer**<br>
