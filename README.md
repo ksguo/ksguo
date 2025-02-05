@@ -1,7 +1,11 @@
 # Kesheng 🧑🏻‍💻 ! [![wakatime](https://wakatime.com/badge/user/d24fde81-4227-43e1-a5a9-455a0a47d9de.svg)](https://wakatime.com/@d24fde81-4227-43e1-a5a9-455a0a47d9de)
 
 
-Hi, I am currently a master's student in Information Systems at the University of Göttingen. I achieved my bachelor's degree from the University of Cologne. I am a passionate Full Stack Developer with a strong focus on Frontend Development. Proficient in React, Next.js, and TypeScript, I specialize in building dynamic and user-friendly web applications.
+I'm a passionate software developer with a keen interest in web development, and data science. I love to learn new technologies and collaborate with others to create impactful solutions.
+
+- 🔭 I'm currently study at the University of Göttingen
+- 🌱 I'm currently learning [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) and [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=19&pause=1000&color=0F3CF7&width=435&lines=independent+developer+coding+with+love)](https://git.io/typing-svg)
 
@@ -32,5 +36,12 @@ Hi, I am currently a master's student in Information Systems at the University o
 
   ## My Github 💻
  <a href="https://github.com/ksguo">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ksguo&show_icons=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ksguo&theme=react&show_icons=true&hide_border=true&count_private=true" alt="ksguo's GitHub Stats" />
  </a>
+
+
+ <a href="https://github.com/ksguo">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksguo&theme=react&show_icons=true&hide_border=true&layout=compact" alt="ksguo's GitHub Stats" />
+ </a>
+
+
