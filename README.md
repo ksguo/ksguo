@@ -45,3 +45,6 @@ I'm a passionate software developer with a keen interest in web development, and
  </a>
 
 
+
+## My Github Activity Snake 🐍
+![Snake animation](https://github.com/ksguo/ksguo/blob/output/github-snake.svg)
