@@ -1,4 +1,4 @@
-# Kesheng 🧑🏻‍💻 ! [![wakatime](https://wakatime.com/badge/user/d24fde81-4227-43e1-a5a9-455a0a47d9de.svg)](https://wakatime.com/@d24fde81-4227-43e1-a5a9-455a0a47d9de)
+# Kesheng 🧑🏻‍💻 ! 
 
 
 I'm a passionate software developer with a keen interest in web development, and data science. I love to learn new technologies and collaborate with others to create impactful solutions.
