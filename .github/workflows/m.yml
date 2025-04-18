@@ -1,8 +1,6 @@
 name: Generate Achievements # 工作流名称
 
 on:
-  push:               # 添加 push 触发条件
-    branches: [main]  # 或 master，取决于你的主分支名称
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
