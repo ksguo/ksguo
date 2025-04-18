@@ -1,0 +1,31 @@
+name: Generate Achievements # 工作流名称
+
+on: # 触发条件
+  schedule: # 定时运行
+    - cron: "0 18 * * *" 
+  workflow_dispatch: # 支持手动触发
+
+permissions: # 设置权限
+  contents: write # 允许写入仓库内容
+
+jobs:
+  github-achievements: # 任务名称
+    runs-on: ubuntu-latest # 运行环境
+    steps:
+      - uses: actions/checkout@v3 # 检出仓库代码
+      - uses: lowlighter/metrics@latest # 使用 metrics Action
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # 使用自定义 PAT
+          filename: m.svg # 输出文件名
+          base: header, activity, community # 显示信息
+          plugin_achievements: yes # 启用成就插件
+          plugin_achievements_display: detailed # 详细显示模式
+          plugin_achievements_threshold: B # 显示 B 级以上的成就
+          plugin_achievements_secrets: ${{ secrets.GITHUB_TOKEN }} # 用于解锁更多成就
+      - name: Commit & Push # 提交生成的文件
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update achievements"
+          git push
