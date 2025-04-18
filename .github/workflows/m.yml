@@ -1,9 +1,11 @@
 name: Generate Achievements # 工作流名称
 
-on: # 触发条件
-  schedule: # 定时运行
-    - cron: "0 18 * * *" 
-  workflow_dispatch: # 支持手动触发
+on:
+  push:               # 添加 push 触发条件
+    branches: [main]  # 或 master，取决于你的主分支名称
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 permissions: # 设置权限
   contents: write # 允许写入仓库内容
