@@ -1,6 +1,9 @@
 <h2 align="center">Hi! I'm Kesheng😃</h2>
 
+[![wakatime](https://wakatime.com/badge/user/9e49ceb6-2797-44f9-b9dc-82495ff42f1c.svg)](https://wakatime.com/@9e49ceb6-2797-44f9-b9dc-82495ff42f1c)
+
 ![Views](https://count.getloli.com/@:ksguo?theme=capoo-1)
+
 
 
 
@@ -35,6 +38,7 @@ Hey! I'm a **Full-stack Web Developer**, also a **student**.😃 from **China**�
 > [**Click here!**](https://bento.me/)
 
 ### 🏷Information Card
+
 ![Info](m.svg)
 
 ![History](/profile-3d-contrib/profile-green-animate.svg)
